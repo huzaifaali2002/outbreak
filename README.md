@@ -1,4 +1,4 @@
-# Outbreak Detector
+# Detecting outbreaks before they become endemic
 
 This project was an entry to Rice Datathon 2022.
 
